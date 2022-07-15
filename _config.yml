@@ -1,14 +1,14 @@
 baseurl: '/jekyll-serif-theme/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Argenti Token'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/logo/ag.png"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  desktop: "images/logo/ag.png"
+  desktop_height: "60px"
+  desktop_width: "60px"
 
 home: 
   limit_services: 6
