@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Argenti Token - Silver backed cryptocurrency.
+# Argenti - Silver backed cryptocurrency.
 
 Argenti Token (ARGT) is a digital asset. Each token is backed by one ounce of fine silver.
