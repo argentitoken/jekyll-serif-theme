@@ -1,6 +1,7 @@
 ---
 title: "Business Advisory"
 date: 2018-12-28T15:14:39+10:00
+image: "/images/features/roadmap.svg"
 weight: 4
 ---
 
