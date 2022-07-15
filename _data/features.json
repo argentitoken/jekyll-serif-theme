@@ -4,8 +4,8 @@
     "description": "Where we're going!",
     "image": {
       "url": "images/features/roadmap.svg",
-      "width": 80,
-      "height": 80
+      "width": 300,
+      "height": 300
     }
   }
 ]
