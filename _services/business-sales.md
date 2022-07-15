@@ -1,7 +1,6 @@
 ---
 title: "Business Sales"
 date: 2019-01-28T15:15:26+10:00
-image: "/images/features/roadmap.svg"
 weight: 2
 ---
 
@@ -10,7 +9,7 @@ vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
 nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
 cadet
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/features/roadmap.svg)
 
 # Objectives
 
