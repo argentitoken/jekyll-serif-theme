@@ -27,7 +27,7 @@ bodyClass: "page-services"
           <h2 class="service-title">
             <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
           </h2>
-          <div>
+          <div class="call">
             <img width="200" height="200" src="{{ service.image }}" />
           </div>
           <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
